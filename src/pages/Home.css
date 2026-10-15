@@ -1,0 +1,4 @@
+.hero { text-align: center; padding: 80px 0; }
+.hero h1 { font-size: 40px; color: #0a8f7a; }
+.hero p { margin: 12px 0 24px; font-size: 18px; }
+.hero .btn { display: inline-block; background: #0a8f7a; color: #fff; padding: 10px 24px; border-radius: 6px; text-decoration: none; }

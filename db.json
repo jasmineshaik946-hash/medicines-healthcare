@@ -1,0 +1,972 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Paracetamol 500mg",
+      "category": "Medicines",
+      "price": 30,
+      "image": "/images/1.jpg",
+      "description": "Fever and pain relief, strip of 15 tablets"
+    },
+    {
+      "id": 2,
+      "name": "Cough Syrup 100ml",
+      "category": "Medicines",
+      "price": 95,
+      "image": "/images/2.jpg",
+      "description": "Relief from dry and wet cough"
+    },
+    {
+      "id": 3,
+      "name": "Ibuprofen 400mg",
+      "category": "Medicines",
+      "price": 45,
+      "image": "/images/3.jpg",
+      "description": "Pain and inflammation relief, strip of 10"
+    },
+    {
+      "id": 4,
+      "name": "Cetirizine 10mg",
+      "category": "Medicines",
+      "price": 25,
+      "image": "/images/4.jpg",
+      "description": "Allergy and sneezing relief, strip of 10"
+    },
+    {
+      "id": 5,
+      "name": "Antacid Gel 170ml",
+      "category": "Medicines",
+      "price": 110,
+      "image": "/images/5.jpg",
+      "description": "Fast relief from acidity and heartburn"
+    },
+    {
+      "id": 6,
+      "name": "ORS Electrolyte Powder",
+      "category": "Medicines",
+      "price": 21,
+      "image": "/images/6.jpg",
+      "description": "Oral rehydration salts, 21g sachet"
+    },
+    {
+      "id": 7,
+      "name": "Digestive Enzyme Syrup",
+      "category": "Medicines",
+      "price": 90,
+      "image": "/images/7.jpg",
+      "description": "Helps indigestion and bloating, 200ml"
+    },
+    {
+      "id": 8,
+      "name": "Nasal Decongestant Drops",
+      "category": "Medicines",
+      "price": 70,
+      "image": "/images/8.jpg",
+      "description": "Quick relief from blocked nose, 10ml"
+    },
+    {
+      "id": 9,
+      "name": "Throat Lozenges",
+      "category": "Medicines",
+      "price": 40,
+      "image": "/images/9.jpg",
+      "description": "Soothes sore throat, pack of 12"
+    },
+    {
+      "id": 10,
+      "name": "Lubricant Eye Drops",
+      "category": "Medicines",
+      "price": 120,
+      "image": "/images/10.jpg",
+      "description": "Relief from dry and tired eyes, 10ml"
+    },
+    {
+      "id": 11,
+      "name": "Antiseptic Liquid 100ml",
+      "category": "Medicines",
+      "price": 85,
+      "image": "/images/11.jpg",
+      "description": "For cuts, wounds and first aid"
+    },
+    {
+      "id": 12,
+      "name": "Povidone Iodine Ointment",
+      "category": "Medicines",
+      "price": 55,
+      "image": "/images/12.jpg",
+      "description": "Antiseptic ointment for minor wounds, 20g"
+    },
+    {
+      "id": 13,
+      "name": "Pain Relief Gel 30g",
+      "category": "Medicines",
+      "price": 95,
+      "image": "/images/13.jpg",
+      "description": "Topical gel for joint and muscle pain"
+    },
+    {
+      "id": 14,
+      "name": "Loperamide 2mg",
+      "category": "Medicines",
+      "price": 35,
+      "image": "/images/14.jpg",
+      "description": "Anti-diarrhoeal capsules, strip of 10"
+    },
+    {
+      "id": 15,
+      "name": "Cold and Flu Tablets",
+      "category": "Medicines",
+      "price": 50,
+      "image": "/images/15.jpg",
+      "description": "Relief from cold, flu and body ache"
+    },
+    {
+      "id": 16,
+      "name": "Antifungal Cream 15g",
+      "category": "Medicines",
+      "price": 110,
+      "image": "/images/16.jpg",
+      "description": "For skin fungal infections and itching"
+    },
+    {
+      "id": 17,
+      "name": "Burn Relief Cream",
+      "category": "Medicines",
+      "price": 75,
+      "image": "/images/17.jpg",
+      "description": "Soothing cream for minor burns, 20g"
+    },
+    {
+      "id": 18,
+      "name": "Motion Sickness Tablets",
+      "category": "Medicines",
+      "price": 45,
+      "image": "/images/18.jpg",
+      "description": "Prevents nausea during travel, strip of 10"
+    },
+    {
+      "id": 19,
+      "name": "Aspirin 75mg",
+      "category": "Medicines",
+      "price": 38,
+      "image": "/images/19.jpg",
+      "description": "Low dose aspirin, strip of 14"
+    },
+    {
+      "id": 20,
+      "name": "Mouth Ulcer Gel",
+      "category": "Medicines",
+      "price": 65,
+      "image": "/images/20.jpg",
+      "description": "Quick relief from mouth ulcers, 10g"
+    },
+    {
+      "id": 21,
+      "name": "Ear Drops 10ml",
+      "category": "Medicines",
+      "price": 80,
+      "image": "/images/21.jpg",
+      "description": "Softens ear wax and eases discomfort"
+    },
+    {
+      "id": 22,
+      "name": "Itch Relief Lotion",
+      "category": "Medicines",
+      "price": 90,
+      "image": "/images/22.jpg",
+      "description": "Calamine lotion for rashes and itching"
+    },
+    {
+      "id": 23,
+      "name": "Constipation Relief Syrup",
+      "category": "Medicines",
+      "price": 100,
+      "image": "/images/23.jpg",
+      "description": "Gentle laxative syrup, 200ml"
+    },
+    {
+      "id": 24,
+      "name": "Acidity Relief Sachets",
+      "category": "Medicines",
+      "price": 60,
+      "image": "/images/24.jpg",
+      "description": "Instant relief sachets, pack of 10"
+    },
+    {
+      "id": 25,
+      "name": "Saline Nasal Spray",
+      "category": "Medicines",
+      "price": 99,
+      "image": "/images/25.jpg",
+      "description": "Clears congestion, 30ml"
+    },
+    {
+      "id": 26,
+      "name": "Herbal Cough Lozenges",
+      "category": "Medicines",
+      "price": 35,
+      "image": "/images/26.jpg",
+      "description": "Tulsi and honey lozenges, pack of 10"
+    },
+    {
+      "id": 27,
+      "name": "Muscle Pain Relief Spray",
+      "category": "Medicines",
+      "price": 180,
+      "image": "/images/27.jpg",
+      "description": "Fast-acting spray for sprains, 55g"
+    },
+    {
+      "id": 28,
+      "name": "ORS Lemon Drink",
+      "category": "Medicines",
+      "price": 25,
+      "image": "/images/28.jpg",
+      "description": "Ready-to-drink rehydration, 200ml"
+    },
+    {
+      "id": 29,
+      "name": "Wound Healing Spray",
+      "category": "Medicines",
+      "price": 135,
+      "image": "/images/29.jpg",
+      "description": "Antiseptic spray for cuts and scrapes"
+    },
+    {
+      "id": 30,
+      "name": "Allergy Relief Tablets",
+      "category": "Medicines",
+      "price": 55,
+      "image": "/images/30.jpg",
+      "description": "Non-drowsy anti-allergy, strip of 10"
+    },
+    {
+      "id": 31,
+      "name": "Vitamin C Tablets",
+      "category": "Supplements",
+      "price": 120,
+      "image": "/images/31.jpg",
+      "description": "Immunity booster, 60 chewable tablets"
+    },
+    {
+      "id": 32,
+      "name": "Multivitamin Capsules",
+      "category": "Supplements",
+      "price": 350,
+      "image": "/images/32.jpg",
+      "description": "Daily essential vitamins and minerals"
+    },
+    {
+      "id": 33,
+      "name": "Protein Powder 500g",
+      "category": "Supplements",
+      "price": 799,
+      "image": "/images/33.jpg",
+      "description": "Chocolate flavour, high protein"
+    },
+    {
+      "id": 34,
+      "name": "Vitamin D3 Capsules",
+      "category": "Supplements",
+      "price": 260,
+      "image": "/images/34.jpg",
+      "description": "Supports bones and immunity, 60 capsules"
+    },
+    {
+      "id": 35,
+      "name": "Omega-3 Fish Oil",
+      "category": "Supplements",
+      "price": 450,
+      "image": "/images/35.jpg",
+      "description": "Heart and brain health, 60 softgels"
+    },
+    {
+      "id": 36,
+      "name": "Calcium + D3 Tablets",
+      "category": "Supplements",
+      "price": 220,
+      "image": "/images/36.jpg",
+      "description": "Strong bones and teeth, 60 tablets"
+    },
+    {
+      "id": 37,
+      "name": "Iron + Folic Acid",
+      "category": "Supplements",
+      "price": 150,
+      "image": "/images/37.jpg",
+      "description": "Supports healthy blood, 30 tablets"
+    },
+    {
+      "id": 38,
+      "name": "Vitamin B12 Tablets",
+      "category": "Supplements",
+      "price": 280,
+      "image": "/images/38.jpg",
+      "description": "Energy and nerve health, 60 tablets"
+    },
+    {
+      "id": 39,
+      "name": "Zinc Tablets 50mg",
+      "category": "Supplements",
+      "price": 130,
+      "image": "/images/39.jpg",
+      "description": "Immunity and skin support, 30 tablets"
+    },
+    {
+      "id": 40,
+      "name": "Magnesium Glycinate",
+      "category": "Supplements",
+      "price": 320,
+      "image": "/images/40.jpg",
+      "description": "Supports muscles and sleep, 60 capsules"
+    },
+    {
+      "id": 41,
+      "name": "Biotin 10000mcg",
+      "category": "Supplements",
+      "price": 399,
+      "image": "/images/41.jpg",
+      "description": "Hair, skin and nail support, 60 tablets"
+    },
+    {
+      "id": 42,
+      "name": "Collagen Powder",
+      "category": "Supplements",
+      "price": 899,
+      "image": "/images/42.jpg",
+      "description": "Skin and joint support, 250g"
+    },
+    {
+      "id": 43,
+      "name": "Ashwagandha Capsules",
+      "category": "Supplements",
+      "price": 349,
+      "image": "/images/43.jpg",
+      "description": "Stress support herbal capsules, 60 count"
+    },
+    {
+      "id": 44,
+      "name": "Turmeric Curcumin",
+      "category": "Supplements",
+      "price": 299,
+      "image": "/images/44.jpg",
+      "description": "With black pepper extract, 60 capsules"
+    },
+    {
+      "id": 45,
+      "name": "Probiotic Capsules",
+      "category": "Supplements",
+      "price": 499,
+      "image": "/images/45.jpg",
+      "description": "Gut health support, 30 capsules"
+    },
+    {
+      "id": 46,
+      "name": "Whey Protein Isolate 1kg",
+      "category": "Supplements",
+      "price": 2199,
+      "image": "/images/46.jpg",
+      "description": "Low-carb whey protein, vanilla"
+    },
+    {
+      "id": 47,
+      "name": "Vitamin E Capsules",
+      "category": "Supplements",
+      "price": 180,
+      "image": "/images/47.jpg",
+      "description": "Antioxidant for skin health, 60 capsules"
+    },
+    {
+      "id": 48,
+      "name": "Women's Multivitamin",
+      "category": "Supplements",
+      "price": 420,
+      "image": "/images/48.jpg",
+      "description": "Formulated for women, 60 tablets"
+    },
+    {
+      "id": 49,
+      "name": "Men's Multivitamin",
+      "category": "Supplements",
+      "price": 420,
+      "image": "/images/49.jpg",
+      "description": "Formulated for men, 60 tablets"
+    },
+    {
+      "id": 50,
+      "name": "Kids Multivitamin Gummies",
+      "category": "Supplements",
+      "price": 380,
+      "image": "/images/50.jpg",
+      "description": "Fruit gummies, 60 count"
+    },
+    {
+      "id": 51,
+      "name": "Apple Cider Vinegar Gummies",
+      "category": "Supplements",
+      "price": 450,
+      "image": "/images/51.jpg",
+      "description": "With mother of vinegar, 60 gummies"
+    },
+    {
+      "id": 52,
+      "name": "Green Tea Extract",
+      "category": "Supplements",
+      "price": 330,
+      "image": "/images/52.jpg",
+      "description": "Antioxidant support, 60 capsules"
+    },
+    {
+      "id": 53,
+      "name": "Moringa Capsules",
+      "category": "Supplements",
+      "price": 240,
+      "image": "/images/53.jpg",
+      "description": "Natural leaf extract, 60 capsules"
+    },
+    {
+      "id": 54,
+      "name": "Spirulina Tablets",
+      "category": "Supplements",
+      "price": 290,
+      "image": "/images/54.jpg",
+      "description": "Plant based nutrition, 90 tablets"
+    },
+    {
+      "id": 55,
+      "name": "Glucosamine + Chondroitin",
+      "category": "Supplements",
+      "price": 599,
+      "image": "/images/55.jpg",
+      "description": "Joint comfort support, 60 tablets"
+    },
+    {
+      "id": 56,
+      "name": "CoQ10 100mg",
+      "category": "Supplements",
+      "price": 650,
+      "image": "/images/56.jpg",
+      "description": "Supports heart and energy, 30 softgels"
+    },
+    {
+      "id": 57,
+      "name": "BCAA Powder 250g",
+      "category": "Supplements",
+      "price": 899,
+      "image": "/images/57.jpg",
+      "description": "Muscle recovery, orange flavour"
+    },
+    {
+      "id": 58,
+      "name": "Creatine Monohydrate 250g",
+      "category": "Supplements",
+      "price": 749,
+      "image": "/images/58.jpg",
+      "description": "Strength and performance, unflavoured"
+    },
+    {
+      "id": 59,
+      "name": "Mass Gainer 1kg",
+      "category": "Supplements",
+      "price": 1299,
+      "image": "/images/59.jpg",
+      "description": "High calorie weight gain formula, chocolate"
+    },
+    {
+      "id": 60,
+      "name": "Fibre Powder 200g",
+      "category": "Supplements",
+      "price": 310,
+      "image": "/images/60.jpg",
+      "description": "Daily dietary fibre supplement"
+    },
+    {
+      "id": 61,
+      "name": "Digital Thermometer",
+      "category": "Devices",
+      "price": 250,
+      "image": "/images/61.jpg",
+      "description": "Fast and accurate"
+    },
+    {
+      "id": 62,
+      "name": "BP Monitor",
+      "category": "Devices",
+      "price": 1499,
+      "image": "/images/62.jpg",
+      "description": "Automatic digital blood pressure monitor"
+    },
+    {
+      "id": 63,
+      "name": "Glucometer Kit",
+      "category": "Devices",
+      "price": 899,
+      "image": "/images/63.jpg",
+      "description": "Blood sugar testing kit with strips"
+    },
+    {
+      "id": 64,
+      "name": "First Aid Kit",
+      "category": "Devices",
+      "price": 549,
+      "image": "/images/64.jpg",
+      "description": "Complete kit for home and travel"
+    },
+    {
+      "id": 65,
+      "name": "Pulse Oximeter",
+      "category": "Devices",
+      "price": 899,
+      "image": "/images/65.jpg",
+      "description": "Measures SpO2 and pulse rate"
+    },
+    {
+      "id": 66,
+      "name": "Nebulizer Machine",
+      "category": "Devices",
+      "price": 1799,
+      "image": "/images/66.jpg",
+      "description": "Compressor nebulizer for respiratory care"
+    },
+    {
+      "id": 67,
+      "name": "Steam Vaporizer",
+      "category": "Devices",
+      "price": 699,
+      "image": "/images/67.jpg",
+      "description": "Nose and face steam inhaler"
+    },
+    {
+      "id": 68,
+      "name": "Infrared Thermometer",
+      "category": "Devices",
+      "price": 1299,
+      "image": "/images/68.jpg",
+      "description": "Non-contact forehead thermometer"
+    },
+    {
+      "id": 69,
+      "name": "Digital Weighing Scale",
+      "category": "Devices",
+      "price": 1099,
+      "image": "/images/69.jpg",
+      "description": "Body weight scale, up to 180kg"
+    },
+    {
+      "id": 70,
+      "name": "Hot Water Bag",
+      "category": "Devices",
+      "price": 199,
+      "image": "/images/70.jpg",
+      "description": "Rubber bag for pain relief and warmth"
+    },
+    {
+      "id": 71,
+      "name": "Electric Heating Pad",
+      "category": "Devices",
+      "price": 799,
+      "image": "/images/71.jpg",
+      "description": "3-level heat for back and shoulder pain"
+    },
+    {
+      "id": 72,
+      "name": "Knee Support Brace",
+      "category": "Devices",
+      "price": 349,
+      "image": "/images/72.jpg",
+      "description": "Adjustable elastic knee support"
+    },
+    {
+      "id": 73,
+      "name": "Back Support Belt",
+      "category": "Devices",
+      "price": 599,
+      "image": "/images/73.jpg",
+      "description": "Lumbar support belt for posture"
+    },
+    {
+      "id": 74,
+      "name": "Wrist BP Monitor",
+      "category": "Devices",
+      "price": 1399,
+      "image": "/images/74.jpg",
+      "description": "Compact automatic wrist monitor"
+    },
+    {
+      "id": 75,
+      "name": "Stethoscope",
+      "category": "Devices",
+      "price": 499,
+      "image": "/images/75.jpg",
+      "description": "Dual head stethoscope"
+    },
+    {
+      "id": 76,
+      "name": "Walking Stick",
+      "category": "Devices",
+      "price": 449,
+      "image": "/images/76.jpg",
+      "description": "Adjustable foldable walking stick"
+    },
+    {
+      "id": 77,
+      "name": "Wheelchair Foldable",
+      "category": "Devices",
+      "price": 6999,
+      "image": "/images/77.jpg",
+      "description": "Lightweight foldable wheelchair"
+    },
+    {
+      "id": 78,
+      "name": "Compression Stockings",
+      "category": "Devices",
+      "price": 499,
+      "image": "/images/78.jpg",
+      "description": "Medical grade knee-length stockings"
+    },
+    {
+      "id": 79,
+      "name": "Ankle Support",
+      "category": "Devices",
+      "price": 299,
+      "image": "/images/79.jpg",
+      "description": "Elastic ankle brace"
+    },
+    {
+      "id": 80,
+      "name": "TENS Pain Relief Machine",
+      "category": "Devices",
+      "price": 1999,
+      "image": "/images/80.jpg",
+      "description": "Electrotherapy device for muscle pain"
+    },
+    {
+      "id": 81,
+      "name": "Handheld Massager",
+      "category": "Devices",
+      "price": 1499,
+      "image": "/images/81.jpg",
+      "description": "Rechargeable percussion massager"
+    },
+    {
+      "id": 82,
+      "name": "Cool Mist Humidifier",
+      "category": "Devices",
+      "price": 1599,
+      "image": "/images/82.jpg",
+      "description": "Ultrasonic humidifier, 2L tank"
+    },
+    {
+      "id": 83,
+      "name": "Air Purifier Compact",
+      "category": "Devices",
+      "price": 5999,
+      "image": "/images/83.jpg",
+      "description": "HEPA filter purifier for small rooms"
+    },
+    {
+      "id": 84,
+      "name": "Glucose Test Strips (50)",
+      "category": "Devices",
+      "price": 699,
+      "image": "/images/84.jpg",
+      "description": "Compatible test strips, pack of 50"
+    },
+    {
+      "id": 85,
+      "name": "Lancets (100 pcs)",
+      "category": "Devices",
+      "price": 199,
+      "image": "/images/85.jpg",
+      "description": "Sterile lancets for blood testing"
+    },
+    {
+      "id": 86,
+      "name": "Pill Organizer Weekly",
+      "category": "Devices",
+      "price": 149,
+      "image": "/images/86.jpg",
+      "description": "7-day pill box with compartments"
+    },
+    {
+      "id": 87,
+      "name": "Reusable Cold Pack",
+      "category": "Devices",
+      "price": 249,
+      "image": "/images/87.jpg",
+      "description": "Hot and cold gel pack"
+    },
+    {
+      "id": 88,
+      "name": "Cervical Collar",
+      "category": "Devices",
+      "price": 399,
+      "image": "/images/88.jpg",
+      "description": "Soft neck support collar"
+    },
+    {
+      "id": 89,
+      "name": "Peak Flow Meter",
+      "category": "Devices",
+      "price": 599,
+      "image": "/images/89.jpg",
+      "description": "Monitors lung function"
+    },
+    {
+      "id": 90,
+      "name": "Digital Ear Thermometer",
+      "category": "Devices",
+      "price": 999,
+      "image": "/images/90.jpg",
+      "description": "Instant ear temperature reading"
+    },
+    {
+      "id": 91,
+      "name": "Hand Sanitizer 200ml",
+      "category": "Personal Care",
+      "price": 80,
+      "image": "/images/91.jpg",
+      "description": "Kills 99.9% germs"
+    },
+    {
+      "id": 92,
+      "name": "Face Masks (Pack of 50)",
+      "category": "Personal Care",
+      "price": 199,
+      "image": "/images/92.jpg",
+      "description": "3-layer disposable masks"
+    },
+    {
+      "id": 93,
+      "name": "Pain Relief Balm",
+      "category": "Personal Care",
+      "price": 65,
+      "image": "/images/93.jpg",
+      "description": "Quick relief from body and muscle pain"
+    },
+    {
+      "id": 94,
+      "name": "Antiseptic Soap",
+      "category": "Personal Care",
+      "price": 45,
+      "image": "/images/94.jpg",
+      "description": "Germ protection soap, 100g"
+    },
+    {
+      "id": 95,
+      "name": "Sunscreen SPF 50",
+      "category": "Personal Care",
+      "price": 349,
+      "image": "/images/95.jpg",
+      "description": "Broad spectrum, 100ml"
+    },
+    {
+      "id": 96,
+      "name": "Moisturizing Cream",
+      "category": "Personal Care",
+      "price": 250,
+      "image": "/images/96.jpg",
+      "description": "Daily hydration for dry skin, 200ml"
+    },
+    {
+      "id": 97,
+      "name": "Lip Balm",
+      "category": "Personal Care",
+      "price": 99,
+      "image": "/images/97.jpg",
+      "description": "Nourishing SPF lip care"
+    },
+    {
+      "id": 98,
+      "name": "Liquid Hand Wash 250ml",
+      "category": "Personal Care",
+      "price": 99,
+      "image": "/images/98.jpg",
+      "description": "Gentle antibacterial hand wash"
+    },
+    {
+      "id": 99,
+      "name": "Anti-Dandruff Shampoo",
+      "category": "Personal Care",
+      "price": 220,
+      "image": "/images/99.jpg",
+      "description": "Clinically tested, 180ml"
+    },
+    {
+      "id": 100,
+      "name": "Fluoride Toothpaste",
+      "category": "Personal Care",
+      "price": 90,
+      "image": "/images/100.jpg",
+      "description": "Cavity protection, 150g"
+    },
+    {
+      "id": 101,
+      "name": "Antiseptic Mouthwash",
+      "category": "Personal Care",
+      "price": 140,
+      "image": "/images/101.jpg",
+      "description": "Fresh breath, 250ml"
+    },
+    {
+      "id": 102,
+      "name": "Soft Bristle Toothbrush",
+      "category": "Personal Care",
+      "price": 60,
+      "image": "/images/102.jpg",
+      "description": "Pack of 2"
+    },
+    {
+      "id": 103,
+      "name": "Body Lotion 400ml",
+      "category": "Personal Care",
+      "price": 280,
+      "image": "/images/103.jpg",
+      "description": "Deep moisture for all skin types"
+    },
+    {
+      "id": 104,
+      "name": "Neem Face Wash",
+      "category": "Personal Care",
+      "price": 180,
+      "image": "/images/104.jpg",
+      "description": "Oil control face wash, 100ml"
+    },
+    {
+      "id": 105,
+      "name": "Talcum Powder 200g",
+      "category": "Personal Care",
+      "price": 120,
+      "image": "/images/105.jpg",
+      "description": "Cooling prickly heat powder"
+    },
+    {
+      "id": 106,
+      "name": "Roll-on Deodorant",
+      "category": "Personal Care",
+      "price": 199,
+      "image": "/images/106.jpg",
+      "description": "24-hour freshness, 50ml"
+    },
+    {
+      "id": 107,
+      "name": "Sanitary Pads (Pack of 20)",
+      "category": "Personal Care",
+      "price": 150,
+      "image": "/images/107.jpg",
+      "description": "Ultra thin, XL size"
+    },
+    {
+      "id": 108,
+      "name": "Baby Lotion",
+      "category": "Personal Care",
+      "price": 230,
+      "image": "/images/108.jpg",
+      "description": "Gentle lotion for babies, 200ml"
+    },
+    {
+      "id": 109,
+      "name": "Baby Wipes (72 pcs)",
+      "category": "Personal Care",
+      "price": 149,
+      "image": "/images/109.jpg",
+      "description": "Alcohol-free, fragrance-free"
+    },
+    {
+      "id": 110,
+      "name": "Baby Diapers (Pack of 40)",
+      "category": "Personal Care",
+      "price": 599,
+      "image": "/images/110.jpg",
+      "description": "Medium size, 12 hour protection"
+    },
+    {
+      "id": 111,
+      "name": "Cotton Balls 100g",
+      "category": "Personal Care",
+      "price": 70,
+      "image": "/images/111.jpg",
+      "description": "Soft sterile cotton balls"
+    },
+    {
+      "id": 112,
+      "name": "Cotton Buds (200 pcs)",
+      "category": "Personal Care",
+      "price": 60,
+      "image": "/images/112.jpg",
+      "description": "Soft tipped cotton swabs"
+    },
+    {
+      "id": 113,
+      "name": "Nail Clipper Set",
+      "category": "Personal Care",
+      "price": 99,
+      "image": "/images/113.jpg",
+      "description": "Stainless steel clipper set"
+    },
+    {
+      "id": 114,
+      "name": "Safety Razor (Pack of 5)",
+      "category": "Personal Care",
+      "price": 129,
+      "image": "/images/114.jpg",
+      "description": "Smooth shave razors"
+    },
+    {
+      "id": 115,
+      "name": "Shaving Cream 70g",
+      "category": "Personal Care",
+      "price": 110,
+      "image": "/images/115.jpg",
+      "description": "Rich lather, sensitive skin"
+    },
+    {
+      "id": 116,
+      "name": "Coconut Hair Oil 200ml",
+      "category": "Personal Care",
+      "price": 160,
+      "image": "/images/116.jpg",
+      "description": "Pure coconut hair oil"
+    },
+    {
+      "id": 117,
+      "name": "Foot Care Cream",
+      "category": "Personal Care",
+      "price": 140,
+      "image": "/images/117.jpg",
+      "description": "Heals cracked heels, 50g"
+    },
+    {
+      "id": 118,
+      "name": "Under Eye Cream",
+      "category": "Personal Care",
+      "price": 349,
+      "image": "/images/118.jpg",
+      "description": "Reduces dark circles, 15g"
+    },
+    {
+      "id": 119,
+      "name": "Aloe Vera Gel 150g",
+      "category": "Personal Care",
+      "price": 199,
+      "image": "/images/119.jpg",
+      "description": "Soothing multipurpose gel"
+    },
+    {
+      "id": 120,
+      "name": "Intimate Wash 100ml",
+      "category": "Personal Care",
+      "price": 210,
+      "image": "/images/120.jpg",
+      "description": "pH balanced daily hygiene wash"
+    }
+  ],
+  "users": [
+    {
+      "name": "Shaik Jasmine",
+      "email": "jasmineshaik946@gmail.com",
+      "password": "123456",
+      "id": 1
+    }
+  ]
+}

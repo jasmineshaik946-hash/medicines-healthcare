@@ -1,0 +1,10 @@
+.card { background: #fff; padding: 16px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,.08); display: flex; flex-direction: column; gap: 8px; transition: transform .2s; }
+.card:hover { transform: translateY(-4px); }
+.card img { width: 100%; height: 180px; object-fit: cover; object-position: center; border-radius: 8px; background-color: #f1f5f9; }
+.category { color: #0a8f7a; font-size: 13px; }
+.card strong { font-size: 16px; color: #1e293b; }
+.card-buttons { display: flex; gap: 8px; margin-top: auto; }
+.btn-cart { flex: 1; background: #e6f7f4; color: #0a8f7a; border: 1px solid #0a8f7a; padding: 9px 8px; font-size: 13px; font-weight: 600; border-radius: 6px; cursor: pointer; transition: all 0.2s; }
+.btn-cart:hover { background: #0a8f7a; color: #fff; }
+.btn-buynow { flex: 1; background: #ea580c; color: #fff; border: 1px solid #ea580c; padding: 9px 8px; font-size: 13px; font-weight: 600; border-radius: 6px; cursor: pointer; transition: all 0.2s; }
+.btn-buynow:hover { background: #c2410c; border-color: #c2410c; }
